@@ -1,0 +1,5 @@
+app/etc/modules/Handy_CeneoReview.xml                           app/etc/modules/Handy_CeneoReview.xml
+app/code/community/Handy/CeneoReview                            app/code/community/Handy/CeneoReview
+app/design/frontend/base/default/layout/handy_ceneoreview.xml   app/design/frontend/base/default/layout/handy_ceneoreview.xml
+app/design/frontend/base/default/template/handy/ceneoreview     app/design/frontend/base/default/template/handy/ceneoreview
+app/locale/en_US/Handy_CeneoReview.csv                          app/locale/en_US/Handy_CeneoReview.csv

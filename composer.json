@@ -1,0 +1,20 @@
+{
+    "name": "handy/ceneoreviews",
+    "type": "magento-module",
+    "description": "Magento 1.x module for Ceneo reviews",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Agata Maksymiuk"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://packages.firegento.com"
+        }
+    ]
+}
