@@ -1,0 +1,9 @@
+<script type="text/javascript">
+<!--
+ceneo_client_email = '<?php echo $this->getOrder()->getCustomerEmail() ?>';
+ceneo_order_id = '<?php echo $this->getOrder()->getIncrementId() ?>';
+ceneo_shop_product_ids = '<?php echo $this->getProductIds() ?>';
+ceneo_work_days_to_send_questionnaire = <?php echo $this->getDaysToSendQuestionnaire() ?>;
+//-->
+</script>
+<script type="text/javascript" src="https://ssl.ceneo.pl/transactions/track/v2/script.js?accountGuid=<?php echo $this->getGuid() ?>"></script>

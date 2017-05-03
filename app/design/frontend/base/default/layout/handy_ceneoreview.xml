@@ -1,0 +1,7 @@
+<layout version="0.1.0">
+    <checkout_onepage_success>
+        <reference name="before_body_end">
+            <block type="handy_ceneoreview/success" name="handy.ceneoreview" template="handy/ceneoreview/success.phtml" />
+        </reference>
+    </checkout_onepage_success>
+</layout>

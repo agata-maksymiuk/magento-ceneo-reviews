@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Handy_CeneoReview>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Handy_CeneoReview>
+    </modules>
+</config>
