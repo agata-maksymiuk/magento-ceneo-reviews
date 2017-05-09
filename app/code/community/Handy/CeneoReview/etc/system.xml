@@ -10,7 +10,7 @@
             <show_in_store>1</show_in_store>
             <groups>
                 <default translate="label">
-                    <label>Default settings</label>
+                    <label>Basic settings</label>
                     <sort_order>1</sort_order>
                     <show_in_default>1</show_in_default>
                     <show_in_website>1</show_in_website>
